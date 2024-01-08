@@ -11,5 +11,6 @@ div#main-content-container {
 
 form#main-model-form {
     display: flex;
+    flex-direction: column;
     gap: 16px;
 }
